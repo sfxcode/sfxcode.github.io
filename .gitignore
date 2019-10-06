@@ -1,0 +1,10 @@
+target/
+_site
+.sass-cache
+.idea*
+*.iml
+project/target
+.DS_Store
+.gitconfig
+.jekyll-cache
+.jekyll-metadata
