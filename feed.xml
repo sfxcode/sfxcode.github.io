@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-06T15:46:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SFXCoding</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Tom</name></author><entry><title type="html">Sapphire Core 1.5.0 released</title><link href="http://localhost:4000/sapphire/sapphire-core-1-5-0/" rel="alternate" type="text/html" title="Sapphire Core 1.5.0 released" /><published>2019-05-01T00:00:00+02:00</published><updated>2019-05-01T00:00:00+02:00</updated><id>http://localhost:4000/sapphire/sapphire-core-1-5-0</id><content type="html" xml:base="http://localhost:4000/sapphire/sapphire-core-1-5-0/">&lt;h2 id=&quot;new-sapphire-core-release-150&quot;&gt;New Sapphire Core Release 1.5.0&lt;/h2&gt;
+
+&lt;p&gt;A JavaFX Application Framework for Scala User.&lt;/p&gt;
+
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+
+&lt;p&gt;Documentation under &lt;a href=&quot;https://sfxcode.github.io/sapphire-core&quot;&gt;https://sfxcode.github.io/sapphire-core&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bintray.com/sfxcode/maven/sapphire-core/_latestVersion&quot;&gt; &lt;img src=&quot;https://api.bintray.com/packages/sfxcode/maven/sapphire-core/images/download.svg&quot; alt=&quot;Download&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/sapphire-core/changes.html&quot;&gt;Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;150&quot;&gt;1.5.0&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;JavaFX 12.0.1&lt;/li&gt;
+  &lt;li&gt;ScalaFX 12.0.1-R17&lt;/li&gt;
+  &lt;li&gt;re-enable scala 2.11&lt;/li&gt;
+  &lt;li&gt;Java 11, 12&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;145&quot;&gt;1.4.5&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;javafx 11.0.2&lt;/li&gt;
+  &lt;li&gt;org.apache.openwebbeans:openwebbeans-impl : 2.0.9 -&amp;gt; 2.0.10&lt;/li&gt;
+  &lt;li&gt;org.specs2:specs2-core:test               : 4.3.6 -&amp;gt; 4.4.0&lt;/li&gt;
+  &lt;li&gt;sbt 1.2.8&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/sapphire-core&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="sapphire-core" /><category term="scalafx" /><summary type="html">Sapphire Core Release post.</summary></entry><entry><title type="html">Simple Mongo 1.6.2 released</title><link href="http://localhost:4000/sapphire/simple-mongo-1-6-2/" rel="alternate" type="text/html" title="Simple Mongo 1.6.2 released" /><published>2019-02-20T00:00:00+01:00</published><updated>2019-02-20T00:00:00+01:00</updated><id>http://localhost:4000/sapphire/simple-mongo-1-6-2</id><content type="html" xml:base="http://localhost:4000/sapphire/simple-mongo-1-6-2/">&lt;h2 id=&quot;new-simple-mongo-release-162&quot;&gt;New Simple Mongo Release 1.6.2&lt;/h2&gt;
+
+&lt;h3 id=&quot;162&quot;&gt;1.6.2&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;mongo-scala-driver 2.6.0&lt;/li&gt;
+  &lt;li&gt;MongoDB Driver Async 3.10.0&lt;/li&gt;
+  &lt;li&gt;sbt.version = 1.2.8&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/simple-mongo/changes.html&quot;&gt;Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bintray.com/sfxcode/maven/simple-mongo/_latestVersion&quot;&gt; &lt;img src=&quot;https://api.bintray.com/packages/sfxcode/maven/simple-mongo/images/download.svg&quot; alt=&quot;Download&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sfxcode.github.io/simple-mongo/&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="MongoDB" /><category term="mongo-scala" /><summary type="html">Simple Mongo Release post.</summary></entry><entry><title type="html">Sapphire Core 1.4.2 released</title><link href="http://localhost:4000/sapphire/sapphire-core-1-4-2/" rel="alternate" type="text/html" title="Sapphire Core 1.4.2 released" /><published>2018-12-13T00:00:00+01:00</published><updated>2018-12-13T00:00:00+01:00</updated><id>http://localhost:4000/sapphire/sapphire-core-1-4-2</id><content type="html" xml:base="http://localhost:4000/sapphire/sapphire-core-1-4-2/">&lt;h2 id=&quot;new-sapphire-core-release-142&quot;&gt;New Sapphire Core Release 1.4.2&lt;/h2&gt;
+
+&lt;p&gt;A JavaFX Application Framework for Scala User.&lt;/p&gt;
+
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+
+&lt;p&gt;Documentation under &lt;a href=&quot;https://sfxcode.github.io/sapphire-core&quot;&gt;https://sfxcode.github.io/sapphire-core&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bintray.com/sfxcode/maven/sapphire-core/_latestVersion&quot;&gt; &lt;img src=&quot;https://api.bintray.com/packages/sfxcode/maven/sapphire-core/images/download.svg&quot; alt=&quot;Download&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/sapphire-core/changes.html&quot;&gt;Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;142&quot;&gt;1.4.2&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;scala 2.12.8&lt;/li&gt;
+  &lt;li&gt;openwebbeans 2.0.8&lt;/li&gt;
+  &lt;li&gt;sbt 1.2.7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;141&quot;&gt;1.4.1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;sbt 1.2.6&lt;/li&gt;
+  &lt;li&gt;child controller handling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;140&quot;&gt;1.4.0&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;OpenJFX 11&lt;/li&gt;
+  &lt;li&gt;Java 11&lt;/li&gt;
+  &lt;li&gt;drop scala 2.11 support&lt;/li&gt;
+  &lt;li&gt;scala 2.12.7&lt;/li&gt;
+  &lt;li&gt;scalafx 11-R16&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/sapphire-core&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="sapphire-core" /><category term="scalafx" /><summary type="html">Sapphire Core Release post.</summary></entry><entry><title type="html">Simple Mongo 1.6.0 released</title><link href="http://localhost:4000/sapphire/simple-mongo-1-6-0/" rel="alternate" type="text/html" title="Simple Mongo 1.6.0 released" /><published>2018-12-01T00:00:00+01:00</published><updated>2018-12-01T00:00:00+01:00</updated><id>http://localhost:4000/sapphire/simple-mongo-1-6-0</id><content type="html" xml:base="http://localhost:4000/sapphire/simple-mongo-1-6-0/">&lt;h2 id=&quot;new-simple-mongo-release-160&quot;&gt;New Simple Mongo Release 1.6.0&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/simple-mongo/changes.html&quot;&gt;Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bintray.com/sfxcode/maven/simple-mongo/_latestVersion&quot;&gt; &lt;img src=&quot;https://api.bintray.com/packages/sfxcode/maven/simple-mongo/images/download.svg&quot; alt=&quot;Download&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sfxcode.github.io/simple-mongo/&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="MongoDB" /><category term="mongo-scala" /><summary type="html">Simple Mongo Release post.</summary></entry><entry><title type="html">Simple Mongo 1.5.1 released</title><link href="http://localhost:4000/sapphire/simple-mongo-1-5-1/" rel="alternate" type="text/html" title="Simple Mongo 1.5.1 released" /><published>2018-07-14T00:00:00+02:00</published><updated>2018-07-14T00:00:00+02:00</updated><id>http://localhost:4000/sapphire/simple-mongo-1-5-1</id><content type="html" xml:base="http://localhost:4000/sapphire/simple-mongo-1-5-1/">&lt;h2 id=&quot;new-simple-mongo-release-151&quot;&gt;New Simple Mongo Release 1.5.1&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/simple-mongo/changes.html&quot;&gt;Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bintray.com/sfxcode/maven/simple-mongo/_latestVersion&quot;&gt; &lt;img src=&quot;https://api.bintray.com/packages/sfxcode/maven/simple-mongo/images/download.svg&quot; alt=&quot;Download&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sfxcode.github.io/simple-mongo/&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="MongoDB" /><category term="mongo-scala" /><summary type="html">Simple Mongo Release post.</summary></entry><entry><title type="html">Sapphire Core 1.3.4 released</title><link href="http://localhost:4000/sapphire/sapphire-core-1-3-4/" rel="alternate" type="text/html" title="Sapphire Core 1.3.4 released" /><published>2018-07-14T00:00:00+02:00</published><updated>2018-07-14T00:00:00+02:00</updated><id>http://localhost:4000/sapphire/sapphire-core-1-3-4</id><content type="html" xml:base="http://localhost:4000/sapphire/sapphire-core-1-3-4/">&lt;h2 id=&quot;new-sapphire-core-release-134&quot;&gt;New Sapphire Core Release 1.3.4&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bintray.com/sfxcode/maven/sapphire-core/_latestVersion&quot;&gt; &lt;img src=&quot;https://api.bintray.com/packages/sfxcode/maven/sapphire-core/images/download.svg&quot; alt=&quot;Download&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/sapphire-core/changes.html&quot;&gt;Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sfxcode.github.io/sapphire-core&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="sapphire-core" /><category term="scalafx" /><summary type="html">Sapphire Core Release post.</summary></entry><entry><title type="html">Sapphire Core 1.3.1 released</title><link href="http://localhost:4000/sapphire/sapphire-core-1-3-1/" rel="alternate" type="text/html" title="Sapphire Core 1.3.1 released" /><published>2018-01-24T00:00:00+01:00</published><updated>2018-01-24T00:00:00+01:00</updated><id>http://localhost:4000/sapphire/sapphire-core-1-3-1</id><content type="html" xml:base="http://localhost:4000/sapphire/sapphire-core-1-3-1/">&lt;h3 id=&quot;new-sapphire-core-release&quot;&gt;New Sapphire Core Release.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Simple Component Exchange Pattern&lt;/li&gt;
+  &lt;li&gt;Controller Lifecycle extended&lt;/li&gt;
+  &lt;li&gt;Apache Deltaspike 1.8.1&lt;/li&gt;
+  &lt;li&gt;OpenWebBeans 2.0.3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download at Bintray: &lt;a href=&quot;https://bintray.com/sfxcode/maven/sapphire-core/1.3.1&quot;&gt;Sapphire Core&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Checkout at Github: &lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Sapphire Core&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Documentation at Github: &lt;a href=&quot;http://sfxcode.github.io/sapphire-core&quot;&gt;Sapphire Core Doku&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="sapphire-core" /><category term="scalafx" /><summary type="html">Sapphire Core Release post.</summary></entry><entry><title type="html">ScalaFX 8.0.144-R12 released</title><link href="http://localhost:4000/scalafx/scalafx-8.0.144-R12/" rel="alternate" type="text/html" title="ScalaFX 8.0.144-R12 released" /><published>2017-10-17T00:00:00+02:00</published><updated>2017-10-17T00:00:00+02:00</updated><id>http://localhost:4000/scalafx/scalafx-8.0.144-R12</id><content type="html" xml:base="http://localhost:4000/scalafx/scalafx-8.0.144-R12/">&lt;h2 id=&quot;new-scalafx-release&quot;&gt;New ScalaFX Release.&lt;/h2&gt;
+
+&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Homepage: &lt;a href=&quot;http://www.scalafx.org&quot;&gt;www.scalafx.org&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Checkout at Github: &lt;a href=&quot;https://github.com/scalafx/scalafx&quot;&gt;github.com/scalafx/scalafx&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="scalafx" /><summary type="html">ScalaFX Release post.</summary></entry><entry><title type="html">Sapphire Core 1.2.1 released</title><link href="http://localhost:4000/sapphire/sapphire-core-1-2-1/" rel="alternate" type="text/html" title="Sapphire Core 1.2.1 released" /><published>2017-07-14T00:00:00+02:00</published><updated>2017-07-14T00:00:00+02:00</updated><id>http://localhost:4000/sapphire/sapphire-core-1-2-1</id><content type="html" xml:base="http://localhost:4000/sapphire/sapphire-core-1-2-1/">&lt;h3 id=&quot;new-sapphire-core-release&quot;&gt;New Sapphire Core Release.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Apache Deltaspike 1.8.0&lt;/li&gt;
+  &lt;li&gt;OpenWebBeans 2.0.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download at Bintray: &lt;a href=&quot;https://bintray.com/sfxcode/maven/sapphire-core/1.2.1&quot;&gt;Sapphire Core&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Checkout at Github: &lt;a href=&quot;https://github.com/sfxcode/sapphire-core&quot;&gt;Sapphire Core&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Documentation at Github: &lt;a href=&quot;http://sfxcode.github.io/sapphire-core&quot;&gt;Sapphire Core Doku&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="sapphire-core" /><category term="scalafx" /><summary type="html">Sapphire Core Release post.</summary></entry><entry><title type="html">Sapphire Demo 1.1.7 released</title><link href="http://localhost:4000/sapphire/sapphire-demo-1-1-7/" rel="alternate" type="text/html" title="Sapphire Demo 1.1.7 released" /><published>2016-10-11T00:00:00+02:00</published><updated>2016-10-11T00:00:00+02:00</updated><id>http://localhost:4000/sapphire/sapphire-demo-1-1-7</id><content type="html" xml:base="http://localhost:4000/sapphire/sapphire-demo-1-1-7/">&lt;h3 id=&quot;new-sapphire-demo-release&quot;&gt;New Sapphire Demo Release.&lt;/h3&gt;
+
+&lt;p&gt;3 Demo Apps based on sapphire-core included.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/sapphire/sapphire-login-demo.jpg&quot; alt=&quot;Sapphire Core Login Demo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tested with JDK8u102&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updated to sapphire-core 1.1.7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dropped-scalafxml-support&quot;&gt;Dropped scalafxml support&lt;/h4&gt;
+
+&lt;p&gt;I decided to drop scalafxml because there of not enough additional value 
+to dispense with fxml autocompletion in an IDE like IntelliJ.&lt;/p&gt;
+
+&lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Checkout at Github: &lt;a href=&quot;https://github.com/sfxcode/sapphire-demo&quot;&gt;Sapphire Demo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tom</name></author><category term="sapphire-demo" /><category term="scalafx" /><summary type="html">Sapphire Demo Release post.</summary></entry></feed>
